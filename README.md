@@ -6,3 +6,7 @@ Getting familiar with the dataset, and loading the images and masks.
 
 ## Week 2: Images and Annotation
 Numerical exploration and basic manipulation of the images, and an introduction to data annotation.
+
+## Week 3: Git and GitHub
+Getting familiar with the basics of Git and GitHub.
+
